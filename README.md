@@ -29,11 +29,11 @@ Promptopia is a full-stack AI Prompt Sharing application built using **Next.js**
 git clone https://github.com/Surajadde07/Promptopia.git
 cd Promptopia
 
-###2. Install dependencies
+### 2. Install dependencies
 
 npm install
 
-###3. Setup environment variables
+### 3. Setup environment variables
 Create a .env.local file in the root directory and add the following:
 
 MONGODB_URI=your_mongo_connection_string
@@ -42,7 +42,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your_nextauth_secret
 
-###4. Run the development server
+### 4. Run the development server
 
 npm run dev
 Visit http://localhost:3000 to view the application.
@@ -62,7 +62,7 @@ Modular file structure for scalability
 📬 Contact
 For any queries, ideas, or feedback:
 
-###GitHub: Surajadde07
+### GitHub: Surajadde07
 
 Made with ❤️ using Next.js and MongoDB
 ---
